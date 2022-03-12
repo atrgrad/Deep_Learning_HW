@@ -8,10 +8,12 @@ The exercise uses recurrent neural networks to predict prices for Bitcoin.  Crea
 
 ## Plotted Results
 
-LSTM Stock Predictor - Closing
+# LSTM Stock Predictor - Closing
+
 ![lstm_closing](/Images/lstm_closing.png "Closing Chart")
 
-LSTM Stock Predictor - Fear and Greed
+# LSTM Stock Predictor - Fear and Greed
+
 ![lstm_fng](/Images/lstm_fng.png "FNG Chart")
 
 ---
